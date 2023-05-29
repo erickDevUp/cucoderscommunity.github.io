@@ -2,7 +2,7 @@
 name: "Polkadot Staking Calculator"
 id: "Polkadot-Staking-Calculator"
 description: "Get the most out of your Polkadot staking with our efficient and distraction-free calculator. Calculate your rewards hassle-free with our easy-to-use tool."
-logo: "	https://github-production-user-asset-6210df.s3.amazonaws.com/53962116/241591351-ee01a807-75d4-4a8a-a0f8-4ace6bb3c445.png"
+logo: ![bg](https://github.com/CuCodersCommunity/cucoderscommunity.github.io/assets/104710949/2fca672e-1348-4b53-a1d7-42c007dbc958)
 email: "erickgarciap779@gmail.com"
 website: "https://dot-staking-calculator.vercel.app/"
 is_open_source: true
