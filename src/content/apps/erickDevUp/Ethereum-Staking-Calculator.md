@@ -16,11 +16,13 @@ platforms: ["Web","Navegador Web"]
 ---
 
 # Ethereum Staking Calculator
+![api](https://github.com/CuCodersCommunity/cucoderscommunity.github.io/assets/104710949/4ba97a58-05c6-4482-b943-c6a9e5062104)
 
-![shot](https://github.com/erickDevUp/cucoderscommunity.github.io/assets/104710949/77ed1079-2306-4623-939e-0ea60e001508)
+## How To Use
+- Add The Annual Reward % (APY) 
+- Add The Amount To Invest 
+- Discover The Return On Your Investment
 
-## How to use
+## Author
 
-1- Add The Annual Reward % (APY)
-2-Add The Amount To Invest
-2-Discover The Return On Your Investment
+- [Erick Garcia (ErickDevUp)](https://erickdevup.netlify.app/)
